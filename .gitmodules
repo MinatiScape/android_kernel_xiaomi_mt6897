@@ -1,0 +1,3 @@
+[submodule "mediatek_modules"]
+	path = mediatek_modules
+	url = https://github.com/MinatiScape/mediatek_kernel_device_modules
